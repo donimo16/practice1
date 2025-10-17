@@ -11,4 +11,7 @@ def test_subtraction():
     assert cal.subtraction(5, 1) == 4
 
 def test_multiplication():
+
     assert cal.multiplication(4, 9) == 36
+    assert cal.multiplication(4,8) == 32
+
